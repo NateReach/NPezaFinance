@@ -24,7 +24,7 @@ By relaxing the Markovian assumption entirely, we implement a Rough Volatility m
 
 Notebook:
 
-The full write-up, derivations, and code are in Derivative_Pricing_and_Volatility_Modelling.ipynb.
+The full write-up, derivations, and code are in Derivative Pricing and Volatility Modelling.ipynb.
 
 Possible future exploration:
 
