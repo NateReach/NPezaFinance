@@ -1,4 +1,4 @@
-# NPezaFinance
+# Derivative Pricing & Volatility Modelling
 A from scratch exploration of option pricing methodology, progressing from classical constant volatility frameworks (Black-Scholes / GBM) through path-dependent exotics, Monte Carlo variance reduction, and finally non Markovian rough volatility models (rough Bergomi). The goal was to build up each model from first principles, implementing the simulation schemes, and validating each model against theory, while tracking why each successive model is needed to fix a specific empirical shortcoming of the last.
 
 ## Project Overview
