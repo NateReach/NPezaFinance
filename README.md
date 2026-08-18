@@ -22,10 +22,12 @@ GBM provides a solid baseline, but its assumption of constant volatility fails t
 5. Capturing Market Microstructure with Rough Volatility - 
 By relaxing the Markovian assumption entirely, we implement a Rough Volatility model driven by Fractional Brownian Motion (fBM) with a low Hurst parameter ($H \approx 0.1$). We try to replicate the short-term implied volatility smiles observed in live options markets.
 
-Notebook
+Notebook:
+
 The full write-up, derivations, and code are in Derivative_Pricing_and_Volatility_Modelling.ipynb.
 
 Possible future exploration:
+
 - Calibrate the Heston and rough Bergomi models to a real options chain and compare the fitted implied volatility surface to the market
 - Add Greeks (Delta, Vega, Gamma) via pathwise or bump and revalue estimators
 
